@@ -1,2 +1,2 @@
-# Akumni_Backend
+# Alumni_Backend
 Academia : Course Registration Management System
